@@ -1,16 +1,17 @@
-# node-express
-Exemplo de API em Node.js usando o framework Express.js
+# Criando APIs com Node
+Criando uma API completa com NodeJs
 
+##Projetos do curso
+O projeto do curso é uma API para uma vitrine de um e-commerce. 
+A API contém as operações para manipular Produtos (CRUD), e modelos como Cliente e Pedido de Compra. 
+Serão implementadas validações de dados, requisições síncronas/assíncronas. 
+Também a parte de segurança/autenticação implementando login via token utilizando JWT.
 
 ## Referências
 [Site Oficial do Node.js](https://nodejs.org)
 
-[Documentação do Express](https://expressjs.com)
-
-[Livro: Construindo APIs testáveis com Node.js](https://leanpub.com/construindo-apis-testaveis-com-nodejs/read)
-
 ## Observações
-Este código faz parte do curso **_Introdução ao Node.js com Express_** na [Digital Inovation One](https://digitalinnovation.one).
+Este código faz parte do curso **_Criando APIs com Node_** na plataforma [Balta.io](https://balta.io/cursos/criando-apis-com-node).
 
 ### Contato:
 
