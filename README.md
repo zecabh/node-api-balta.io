@@ -1,7 +1,7 @@
 # Criando APIs com Node
 Criando uma API completa com NodeJs
 
-##Projetos do curso
+## Projetos do curso
 O projeto do curso é uma API para uma vitrine de um e-commerce. 
 A API contém as operações para manipular Produtos (CRUD), e modelos como Cliente e Pedido de Compra. 
 Serão implementadas validações de dados, requisições síncronas/assíncronas. 
